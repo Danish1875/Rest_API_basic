@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-# Rest_API_basic
-A basic REST API built with Node.js and Express for task management
-=======
-# Task Management REST API
-
+# Rest API Basics
+--------------
+## Task Management REST API
 A simple RESTful API built with Node.js and Express for managing tasks. This project demonstrates basic CRUD operations and REST principles.
 
 ## Features
@@ -91,4 +88,3 @@ The API returns appropriate HTTP status codes:
 - `app.js` - Main application file with route definitions
 - `package.json` - Project dependencies and scripts
 - `.gitignore` - Git ignore rules
->>>>>>> master
